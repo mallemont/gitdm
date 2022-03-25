@@ -12903,6 +12903,7 @@ mmacy: marsma!microsoft.com, mmacy!users.noreply.github.com
 	Microsoft Corporation
 mmalerba: mmalerba!google.com, mmalerba!users.noreply.github.com
 	Google LLC
+mallemont: mmallemo!cisco.com mallemont!users.noreply.github.com
 mmaquevice: matth.maq!gmail.com, mmaquevice!users.noreply.github.com
 	At The Corner
 mmarchini: mat!mmarchini.me, matheus!sthima.com, mmarchini!netflix.com
